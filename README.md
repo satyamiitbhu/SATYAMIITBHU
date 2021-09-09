@@ -16,7 +16,7 @@
 
 - 🎓 I am currently a final year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
 - 👨‍ I like to solve real life problems and I am interested in Data Structure and Algorithm (DSA) 
-- 🏋 Apart from study stuff I love playing outdoor games like(Hockey, Cricket....etc.).
+- 🏋 Apart from study stuff I love playing outdoor games like(Hockey, Cricket, Badminton....etc.).
 
 ---
 ### GitHub Stats:
