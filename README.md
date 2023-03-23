@@ -6,7 +6,7 @@
 
 <p>
  <i>
-    I am an aspiring software engineer <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=35>.
+    Hey, I am an software engineer, Currently working at Societe generale. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=35>.
  </i>
 </p>
 
