@@ -6,18 +6,9 @@
 
 <p>
  <i>
-    Hey, I am an software engineer, Currently working at Societe generale. <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=35>.
+    Hey, My name is Satyam Kumar and Currently working as a software engineer at Societe generale. I graduated from IIT(BHU) Varanasi in 2022.<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=35>.
  </i>
 </p>
-
----
-
-### About Me:
-
-- 🎓 I am currently a final year undergraduate at <a href="https://www.iitbhu.ac.in/"> IIT BHU Varanasi </a>
-- 👨‍ I like to solve real life problems and I am interested in Data Structure and Algorithm (DSA) 
-- 🏋 Apart from study stuff I love playing outdoor games like(Hockey, Cricket, Badminton....etc.).
-
 ---
 ### GitHub Stats:
 <p align="center">
